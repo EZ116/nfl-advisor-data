@@ -1,5 +1,5 @@
 {
-  "id": "2",
-  "msg": "cd ~/nfl_advisor && python3 publish.py --help",
+  "id": "3",
+  "msg": "python3 message.py --clear",
   "expires": ""
 }
