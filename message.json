@@ -1,1 +1,5 @@
-{"id":"4","msg":"","expires":""}
+{
+  "id": "5",
+  "msg": "grep -n \"_prompt_message\\|prompt_message\" ~/nfl_advisor/publish.py",
+  "expires": ""
+}
